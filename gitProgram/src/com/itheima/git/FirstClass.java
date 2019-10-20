@@ -7,5 +7,8 @@ public class FirstClass {
 
         System.out.println("Hello Git!");
 
+        System.out.println("修改代码再次提交到远程仓库");
+
+
     }
 }
